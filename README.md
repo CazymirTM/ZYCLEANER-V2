@@ -1,7 +1,7 @@
 # ZYCLEANER V2 (CLI)
 A lightweight command-line utility for cleaning temporary files and system caches on Windows. Built with .NET, it helps free up disk space by removing unnecessary temp files, browser caches, and Windows components safely.
 
-
+Download:
 
 ## ⚙️ Features
 - Clean system temp files, browser caches, and application data
@@ -12,4 +12,4 @@ A lightweight command-line utility for cleaning temporary files and system cache
 ### Usage
 - Run as administrator and select to scan a directory, then clean the category (or clean them all if you want)
 
-
+Photo
